@@ -1,0 +1,43 @@
+_repo: Western-Bird-GuideBirds-of-the-Rockies-and-West-to-the-Pacific_45918
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Reed, Chester A. (Chester Albert)
+    alias: Reed, Chester Albert
+    birthdate: 1876
+    deathdate: 1912
+    gutenberg_agent_id: '34298'
+    url: http://www.gutenberg.org/2009/agents/34298
+  - agent_name: Harvey, Harry F.
+    gutenberg_agent_id: '43525'
+    url: http://www.gutenberg.org/2009/agents/43525
+  - agent_name: Brasher, R. I.
+    gutenberg_agent_id: '43526'
+    url: http://www.gutenberg.org/2009/agents/43526
+covers:
+- cover_type: archival
+  image_path: 45918-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Reed, Charles K. (Charles Keller)
+    aliases:
+    - Reed, Chas. K. (Charles Keller),
+    - Reed, Charles Keller
+    birthdate: 1851
+    deathdate: 1921
+    gutenberg_agent_id: '43348'
+    url: http://www.gutenberg.org/2009/agents/43348
+description: ''
+gutenberg_issued: '2014-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45918'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- West (U.S.)'
+- !lcc 'QL'
+title: 'Western Bird Guide: Birds of the Rockies and West to the Pacific'
+url: http://www.gutenberg.org/ebooks/45918
